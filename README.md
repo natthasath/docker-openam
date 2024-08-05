@@ -1,4 +1,4 @@
-# 🎉 Docker Gitea
+# 🎉 Docker OpenAM
 
 OpenAM is an open-source access management solution that provides authentication, authorization, entitlement, and federation services. It enables secure access to applications and services by managing user identities and policies across diverse platforms and environments.
 
